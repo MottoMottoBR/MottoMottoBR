@@ -1,7 +1,7 @@
 
 
 
-# Bem vindo ao meu perfil GitHub 👋
+# Bem vindo ao meu  GitHub 👋
 
 Ola, sou o  ***Alessandro***, Tenho 34 anos, dei o ponta pé inicial na minha mudança de carreira, saindo de Suporte em T.I para Dev.
 Eu sei que ***Suporte*** e ***Desenvolvimento*** são áreas correlacionadas e  essa  mudança  de carreira para alguns pode não parece grande coisa, se comparado a um :articulated_lorry: caminhoneiro deixando estrada para se tornar um Dev, ou algo parecido.
