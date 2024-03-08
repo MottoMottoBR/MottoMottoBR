@@ -4,9 +4,6 @@
 # Bem vindo ao meu  GitHub 👋
 
 
-<p align="center">
-  <img src="https://img.ibxk.com.br/2020/05/12/12123741579262.gif" width="350">
-</p>
 
 
 
